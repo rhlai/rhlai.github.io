@@ -10,38 +10,36 @@
     "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rhlai", "url": "http://github.com/rhlai" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/raymond-lai-a03148262" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/raymond-lai-a03148262" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Animation" },
+    { "name": "3D Modeling" },
+    { "name": "Video Game Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "VIM" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2023)",
       "studyType": "B.S.",
-      "startDate": "2018-09-01",
+      "startDate": "2018-08-20",
       "endDate": "Present",
       "courses": [
       ]
     }
   ],
-  "work": [
+ /* "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -107,7 +105,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ], */
   "references": [
     {
       "name": "Available upon request"
