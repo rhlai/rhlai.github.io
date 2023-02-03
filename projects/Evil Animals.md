@@ -17,3 +17,7 @@ The game is centered on the player character you control that is a cat, the obje
 <h2 id="Current Progress">Current Progress</h2>
 
 Currently, all that exists of the project is ideas and an initial storyboard of the game. As such there is not much to currently show and even less that can be said about the game.
+
+<h2 id="What I'm Learning">What I'm Learning</h2>
+
+I am learning about using trello, unity and also how to work together in a large group. 
