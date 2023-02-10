@@ -15,4 +15,4 @@ Coding standards are a set of rules that are used when writing code in order to 
 
 ## My Experience with Coding Standards
 
-In the process of taking 
+In the process of taking ICS 314, we covered 
