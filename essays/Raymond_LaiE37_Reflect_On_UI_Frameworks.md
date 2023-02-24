@@ -29,7 +29,7 @@ one another and even after hours could not figure it out.
 Though at times I found it frustrating to use, I cannot play down the benefits of using bootstrap. It made formatting webpages easier, made it much easier to make a navigation bar,
 made aligning images a breeze aswell as made many tasks easier. Actually having learned it made it possible for me to make a website for another class that I am taking this semester.
 
-<img src="../img/website.png">
+<img width="500px" src="../img/website.png">
 
 In that image, if it were not for having learnt bootstrap, I do not believe it would have been possible for me to properly format all the passages and images in as little a time as it did with bootstrap. 
 
