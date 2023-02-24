@@ -32,3 +32,7 @@ made aligning images a breeze aswell as made many tasks easier. Actually having 
 <img src="../img/website.png">
 
 In that image, if it were not for having learnt bootstrap, I do not believe it would have been possible for me to properly format all the passages and images in as little a time as it did with bootstrap. 
+
+## Final Thoughs
+
+While I believe there are many uses for UI Frameworks and I have learned about how powerful they can be, I do find that it can sometimes be painful to work with when you do not fully understand it. While raw html and raw css gives you very minute control over all the variables, I find that to sometimes be tiresome. Thus I can only really call UI frameworks a web development shortcut that requires a bit of learning before being able to implement it to a moderate degree and a lot of training to master. 
