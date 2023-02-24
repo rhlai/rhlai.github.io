@@ -1,0 +1,47 @@
+{
+  "basics": {
+    "name": "Raymond Lai",
+    "label": "Student",
+    "picture": "https://github.com/rhlai.png",
+    "email": "rlai@hawaii.edu",
+    "phone": "808-383-3722",
+    "website": "https://rhlai.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "rhlai", "url": "http://github.com/rhlai" },
+      { "network": "linkedin", "username": "Raymond Lai", "url": "http://linkedin.com/in/raymond-lai-a03148262" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Animation" },
+    { "name": "3D Modeling" },
+    { "name": "Video Game Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "VIM" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-20",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request" 
+    }
+  ]
+}
