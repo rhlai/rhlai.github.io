@@ -7,7 +7,9 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
+<p align="center">
+  <img src=https://cdn3.volusion.com/sfsru.bjgxs/v/vspfiles/photos/RESTUNIACC-2.jpg?v-cache=1639998617>
+</p>
 <h1>Rate My Bathroom</h1>
 Dustin Tomi, Payton Higa, Raymond Li, Nicolas Steger
 <h2>Overview</h2>
