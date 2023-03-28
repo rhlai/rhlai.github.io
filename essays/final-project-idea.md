@@ -8,13 +8,16 @@ labels:
   - Meteor
 ---
 
-Rate My Bathroom - Dustin Tomi, Payton Higa, Raymond Li, Nicolas Steger
-Overview
-Problem : Bathrooms open and close at different times. They also greatly vary in cleanliness and accessibility. It can be impossible to know which bathroom to go to when you are pressed for time.
+<h1>Rate My Bathroom</h1>
+Dustin Tomi, Payton Higa, Raymond Li, Nicolas Steger
+<h2>Overview</h2>
+<h2>Problem</h2>
+Bathrooms open and close at different times. They also greatly vary in cleanliness and accessibility. It can be impossible to know which bathroom to go to when you are pressed for time.
 
-Solution : Rate My Bathroom. A Meteor Application that lists bathrooms near you with their opening and closing times. It also has ratings from individual users on their experience using select bathrooms.
+<h2>The Solution? Rate My Bathroom.</h2>
+A Meteor Application that lists bathrooms near you with their opening and closing times. It also has ratings from individual users on their experience using select bathrooms.
 
-Mock Up Page Ideas
+<h2>Mock Up Page Ideas</h2>
 A campus wide map that lists the locations of bathrooms. Along with those bathrooms, there are listed hours for the bathrooms along with tags that list types of bathrooms, types of accessibility, that kind of thing.
 
 Some possible mockup pages include
@@ -25,7 +28,7 @@ Some possible mockup pages include
   <li>Bathroom Map</li>
 </ul>
 
-Use Cases
+<h2>Use Cases</h2>
 <ul>
   <li>Landing Page</li>
   <ul>
@@ -53,7 +56,7 @@ Use Cases
     </ul>
 </ul>
 
-Beyond the Basics
+<h2>Beyond the Basics</h2>
 <ul>
   <li>Today’s Picks</li>
   <li>Crowdsourcing bathroom data page</li>
