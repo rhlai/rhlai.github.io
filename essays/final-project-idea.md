@@ -30,7 +30,7 @@ Some possible mockup pages include
   <li>Bathroom Map</li>
 </ul>
 
-<h3Use Cases</h3>
+<h3>Use Cases</h3>
 <ul>
   <li>Landing Page</li>
   <ul>
