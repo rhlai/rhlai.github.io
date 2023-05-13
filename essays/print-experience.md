@@ -11,8 +11,10 @@ labels:
   - Javascript
   - Software 
 ---
-<img width="75%" src="../img/tessellation.png">
+<img width="75%" src="../img/experience.jpg">
 
 ## Overview
 
-words words words
+In my pursuit to get a degree in Computer Science at UH Manoa, I took a class named ICS 314: Software Engineering. In this class, I was able to 
+
+##
