@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Experiencing 314"
+title: "print("Experience.txt")"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-12
 published: true
