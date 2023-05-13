@@ -10,7 +10,7 @@ labels:
   - CSS
   - Javascript
 ---
-
+<img width="75%" src="../img/tessellation.png">
 ## Problem Prevention via Design Patterns
 
   When working on code, it is highly unlikely that what you are implementing or writing is something that has not ever been done before. In fact, more often than not, your specific 
