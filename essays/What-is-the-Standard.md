@@ -9,6 +9,8 @@ labels:
   - Coding Standards
 ---
 
+<img width="75%" src="../img/standards.png">
+
 ## What Is a Coding Standard?
 
 Coding standards are a set of rules that are used when writing code in order to make it more legible to those that might have to read it in the future. By adhering to some form of coding standard, one is able to partially unpack what exactly is happening in the code when given the coding style. Moreover the adoption of a coding style means that variables and other functions are more legible and not all over the place. 
