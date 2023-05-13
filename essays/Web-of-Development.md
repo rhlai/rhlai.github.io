@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Web of Development?"
+title: "Web of Development"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
