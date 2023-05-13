@@ -28,9 +28,15 @@ Throughout creating the site, I grew much more familiar with both uniforms and b
 
 <h2 id="My Contributions">My Contributions</h2>
 
+My Contributions to the Project include
 
+<li>The Landing Page</li>
+<li>The Secondary Navbar that was never used</li>
+<li>Editting the CSS for the site</li>
+<li>The Food Collection Item</li>
+<li>The Add Food Page</li>
 
-
-
+Alongside these, I also attempted to add the ability for vendors to add food items to restaurants they created without having to write their restaurant name every time and have it instead 
+be auto-populated from a list of restaurants that were associated with the user as well as the ability for users to see which restaurants were open based on the current time of the user. While I wrote code for these functionalities, due to time constraints and eventual inability to implement these features, they were ultimately scrapped from the project. 
 
 Source: <a href="https://github.com/snack-squad/snack-squad.github.io"><i class="large GitHub icon "></i>https://snack-squad.github.io</a>
