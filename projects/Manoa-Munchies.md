@@ -14,5 +14,9 @@ labels:
   - Web Development
 summary: "Manoa Munchies was a website developed about the various food options available at UH Manoa that was created alongside Dustin Tomi, Payton Higa and Nicolas Steger"
 ---
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/snack-squad.png">
+</div>
+
 
 Source: <a href="https://github.com/snack-squad/snack-squad.github.io"><i class="large github icon "></i>https://snack-squad.github.io</a>
