@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What is the standard?"
+title: "What is the Standard?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
 published: true
