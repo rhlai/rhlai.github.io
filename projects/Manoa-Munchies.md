@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cat.jpg
+image: img/snack-squad-logo.png
 title: "Manoa Munchies"
 date: 2023
 published: true
